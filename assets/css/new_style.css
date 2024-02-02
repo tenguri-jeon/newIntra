@@ -1,0 +1,26 @@
+.border-card{
+    border-radius: 16px 33px 16px 33px !important;
+}
+  
+.border-card-body{
+  padding: 30px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  color: var(--vz-card-color);
+}
+
+.bold-card{
+    border: 1px solid #e9ebec;
+    border-radius: 10px;
+}
+
+.bold-card-body{
+    padding: 30px;
+}
+
+.bold-card:hover{
+    border: 2px solid #3577f1;
+    transform: unset;
+    transition: 0.2s;
+}
