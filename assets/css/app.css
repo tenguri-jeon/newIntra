@@ -833,7 +833,7 @@ File: Main Css File
   font-size: 0.813rem;
   font-family: "Poppins", sans-serif;
 }
-.navbar-menu .navbar-nav .nav-sm .nav-link:before {
+/* .navbar-menu .navbar-nav .nav-sm .nav-link:before {
   content: "";
   width: 6px;
   height: 1.5px;
@@ -844,7 +844,7 @@ File: Main Css File
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   opacity: 0.5;
-}
+} */
 .navbar-menu .navbar-nav .nav-sm .nav-link:hover {
   color: var(--vz-vertical-menu-sub-item-hover-color);
 }
